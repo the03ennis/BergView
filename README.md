@@ -1,6 +1,8 @@
 # bergview
 
-A flutter application built for iOS designed to be a simple and easy way to see what is being served at Harvard's dining hall for the day
+A flutter application built for iOS designed to be a simple and easy way to see what is being served at Harvard's dining hall for the day.
+
+[Dart Documentation can be found here.](https://the03ennis.github.io/bergview/doc/api/)
 
 ## Application Use
 
