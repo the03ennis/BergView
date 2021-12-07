@@ -4,6 +4,8 @@ A flutter application built for iOS designed to be a simple and easy way to see 
 
 [Dart Documentation can be found here.](https://the03ennis.github.io/bergview/doc/api/)
 
+[Youtube video can be found here.](https://youtu.be/utfXvKBDICM)
+
 ## Application Use
 
 Upon launching the app, you can see that it's a pretty simple thing: the main screen lists all of the dining locations for the day.
